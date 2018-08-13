@@ -1,2 +1,2 @@
 # my-apache-virtual-hosts
-My sample Apache Virtual Hosts configuration
+Here are anonymized examples of my Apache Virtual Hosts configuration
