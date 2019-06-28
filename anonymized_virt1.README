@@ -1,0 +1,3 @@
+In this example, the sites "a.com" and "www.a.com" are aliases to each other. Meanwhile sites "b.com" and "www.b.com" are also aliases to each other, however:
+1] Any user visiting "b.com/Portal/app" must be forwarded to "a.com/Portal/app"
+2] Any user visiting "b.com" or "www.b.com" must be forwarded to "a.com"
