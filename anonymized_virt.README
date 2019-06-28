@@ -1,0 +1,1 @@
+In this example, the site "a.com" is the default website. Meanwhile the sites "b.com", "c.com", "www.b.com", and "www.c.com" are aliases to each other and any user visiting these sites must be forwarded to the /InteleConnect webapp.
